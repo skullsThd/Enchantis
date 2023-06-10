@@ -12,5 +12,8 @@
 
 # come faccio ad eseguire i codici 
 
-C e C++ # visual studio 2022
+C e C++
+# visual studio 2022
+```
+```
 Py # python.org/
