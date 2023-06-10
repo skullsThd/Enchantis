@@ -15,5 +15,4 @@
 C e C++
 # visual studio 2022
 ```
-```
 Py # python.org/
