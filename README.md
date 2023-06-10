@@ -5,6 +5,6 @@
 
 ``` {
 "name": "Enchis",
-"version": "beta",
+"version": "1.0.0alpha",
 "config": [],
 }
