@@ -8,3 +8,9 @@
 "version": "1.0.0alpha",
 "config": [],
 }
+```
+
+# come faccio ad eseguire i codici 
+
+C e C++ # visual studio 2022
+Py # python.org/
